@@ -37,4 +37,4 @@ The **Smart Mist Sprayer** project helps automatically control humidity, protect
 
 ## Contact
 
-You can contact the author via email: your.email@example.com
+You can contact the author via email: nguyenkluan957@gmail.com
