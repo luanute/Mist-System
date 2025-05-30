@@ -1,4 +1,4 @@
-# Smart Mist Sprayer
+# Mist System
 
 The **Smart Mist Sprayer** project helps automatically control humidity, protect plants, or create a comfortable and fresh environment at home.
 
